@@ -67,7 +67,7 @@ I am an established TopTal member (https://www.toptal.com/resume/alexandr-shurig
 
 So often I work with signed NDA or for stealth mode startups so I can't show here everything, but I will try to show as much as possible.
 
-**\* "via Upwork" means that you can check my [upwork profile](https://www.upwork.com/fl/alexandrshurigin) for more details about a project.**
+\* "via Upwork" means that you can check my [upwork profile](https://www.upwork.com/fl/alexandrshurigin) for more details about a project.
 
 1. **[Jogging Single Page Application](https://github.com/phpdude/portfolio-jogging-django-react-webpack-docker)** - Portfolio project: jogging application built with Django, ReactJS, Webpack and Docker containers. I specially built it to show my skills and source code quality.
 1. [Full Stack Development & DevOps Engineer with Continuous Integration](http://www.spiralai.com/en/) **via Upwork**.
