@@ -69,7 +69,7 @@ So often I work with signed NDA or for stealth mode startups so I can't show her
 
 \* "via Upwork" means that you can check my [upwork profile](https://www.upwork.com/fl/alexandrshurigin) for more details about a project.
 
-1. **[Jogging Single Page Application (with source code!!)](https://github.com/phpdude/portfolio-jogging-django-react-webpack-docker)** - Portfolio project: jogging application built with Django, ReactJS, Webpack and Docker containers. I specially built it to show my skills and source code quality.
+1. **[Jogging Single Page Application (with source code!!)](https://github.com/phpdude/portfolio-jogging-django-react-webpack-docker)** - Portfolio project: jogging application built in Django, ReactJS, Webpack and Docker containers. I specially built it to show my skills and source code quality.
 1. [Full Stack Development & DevOps Engineer with Continuous Integration](http://www.spiralai.com/en/) **via Upwork**.
   The client needed to migrate from Google App Engine to the AWS Elastic Beanstalk Docker Multi-Containers infrastructure. This required rewriting a significant amount of source code that depended on Google App Engine API.  I rewrote a significant portion of the project and made all deployment processes as simple as possible with shippable.com CI. I found alternatives and rewrote all source code for Google App Engine APIs: URLfetch, geocoding, XMPP proxy, Cloud SQL, Async tasks, deferred tasks, and cache. I also rewrote many unity tests to test all migration process results.  
 
