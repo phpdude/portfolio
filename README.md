@@ -153,12 +153,12 @@ I always contribute to Open Source solutions when I have a time and good idea. M
 
 Some of my GitHub Gists:
 
-- (Nginx image filter + caching of results.)[https://gist.github.com/phpdude/1451684] - 150 Stars!!! 43 Forks!! Some projects are built on top of this gist (for example https://github.com/fredpalmer/dimwit/)!
-- (Simplest Async Email Backend for Django)[https://gist.github.com/phpdude/34fc7001e0b04ecf7fb18516b0577287] - It is simplest email backend for Django which supports async email delivery in parallel threads. Keep it simple! It has various analogs, you can google for it yourself.
-- (How to add CryptoPRO support in standard linux curl and other programs)[https://gist.github.com/phpdude/47eecbb61fdc2819bd60cd8d0ad725cc]
-- (Find used python packages list needed to be installed (or used in requirements.txt))[https://gist.github.com/phpdude/1cdb68de4be01c2dce9a]
-- (Docker Composer production configuration example)[https://gist.github.com/phpdude/5d0c39d3bcf316affe42]
-- (Auto activate virtualenv & activate_env alias)[https://gist.github.com/phpdude/b2ea553c356097988e55]
+- [Nginx image filter + caching of results.](https://gist.github.com/phpdude/1451684) - 150 Stars!!! 43 Forks!! Some projects are built on top of this gist (for example https://github.com/fredpalmer/dimwit/)!
+- [Simplest Async Email Backend for Django](https://gist.github.com/phpdude/34fc7001e0b04ecf7fb18516b0577287) - It is simplest email backend for Django which supports async email delivery in parallel threads. Keep it simple! It has various analogs, you can google for it yourself.
+- [How to add CryptoPRO support in standard linux curl and other programs](https://gist.github.com/phpdude/47eecbb61fdc2819bd60cd8d0ad725cc)
+- [Find used python packages list needed to be installed (or used in requirements.txt)](https://gist.github.com/phpdude/1cdb68de4be01c2dce9a)
+- [Docker Composer production configuration example](https://gist.github.com/phpdude/5d0c39d3bcf316affe42)
+- [Auto activate virtualenv & activate_env alias](https://gist.github.com/phpdude/b2ea553c356097988e55)
 
 ## Contacts
 
